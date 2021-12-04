@@ -16,8 +16,8 @@ The required data for running the functions can be found at the following handle
 Python Library Requirements can be found in requirements.txt
 
 #### Preview
-An example of  odometry-determined route as opposed to the ground truth values is shown below:
-![map](map.png)
+An demonstration of a short odometry-determined route is shown below:
+![preview](Preview.png)
 
 
 
