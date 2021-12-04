@@ -10,8 +10,7 @@ The required data for running the functions can be found at the following handle
 
 [KITTI odometry data set (grayscale, 22 GB)](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
 
-[calibration data](http://www.cvlibs.net/download.php?file=data_odometry_calib.zip)(http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
-
+[calibration data](http://www.cvlibs.net/download.php?file=data_odometry_calib.zip)
 #### Requirements
 
 Python Library Requirements can be found in requirements.txt
