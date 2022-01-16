@@ -1,0 +1,7 @@
+# Exclude python cache folders
+__pycache__/
+
+# Exclude data files and dirs
+/data_odometry_calib/
+/data_odometry_gray/
+/data_odometry_poses/
